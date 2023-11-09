@@ -1,19 +1,13 @@
 const dados = {
       "artigos": [
         {
-          "titulo": "A Importância das Árvores na Biodiversidade",
-          "autor": "Priscila Áquila",
-          "data_publicacao": "12 de agosto de 2023",
-          "conteudo": "As árvores desempenham um papel fundamental na preservação da biodiversidade...",
-          "url": "Artigos/artigo1.html" // URL do artigo 1
+          id: 0,
+          "titulo": "",
+          "autor": "",
+          "data_publicacao": "",
+          "conteudo": "",
+          "url": // URL do artigo 1
         },
-        {
-          "titulo": "A Evolução das Espécies",
-          "autor": "Priscila Áquila",
-          "data_publicacao": "25 de agosto de 2023",
-          "conteudo": "A teoria da evolução de Charles Darwin revolucionou nossa compreensão da vida na Terra...",
-          "url": "artigo2.html" // URL do artigo 2
-        }
       ]
     };
 
